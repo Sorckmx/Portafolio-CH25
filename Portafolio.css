@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(to right, #4CA1AF, #C4E0E5);
+}
+
+img{
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.biografia {
+    font-style: italic;
+    font: bold;
+    color: rgb(79, 11, 113);
+}
+
+.Estudios1 {
+    text-align: center;
+    font: bolder;
+    font-size: xx-large;
+}
+
+.Universidad1 {
+    float: left;
+}
+
+.Generation1 {
+    float: center;
+}
+
+.Mecatronica {
+    float: right;
+}
+
+.card-body {
+    background-color: rgb(87, 75, 101);
+}
+
+.card-title {
+    font-style: initial;
+    text-align: center;
+    font: bolder;
+    text-decoration: dotted;
+    color: rgb(255, 124, 253);
+}
+
+.card-text {
+    font-style: oblique;
+    text-align: center;
+    color: hotpink;
+}
